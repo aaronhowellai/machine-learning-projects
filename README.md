@@ -10,8 +10,8 @@ A curated collection of hands-on **Machine Learning** and **Deep Learning** mini
 This repository contains Jupyter notebooks and visual artifacts from end-to-end ML projects. Topics range from regression models to efficient data loading, including:
 
 - 📊 **1-Week House Price Regression Project (California Housing Dataset)**
-- 🤖 **Intro to PyTorch: Tensors, MLPs, & Training Loops**
-- 🔍 **Simple KNN Regression from Scratch**
+- 🤖 **95% Accuracy Email Spam Classifier**
+- 🔍 **1-Week Handwritten Digits Classification (MNIST Dataset)**
 - 📈 Data visualization: Tensor shapes, pipeline architectures, and more!
 
 Each notebook is designed to be:
