@@ -1,5 +1,7 @@
 # 🧠 Machine Learning Projects Portfolio
 
+Please note: The **Open in colab** button for viewing Python Notebooks is currently broken so please download the raw file and view in an IDE like Jupyter Lab or VSCode to see and interact with the full project.
+
 A curated collection of hands-on **Machine Learning** and **Deep Learning** mini-projects, experiments, and pipelines — developed using real-world datasets, modern libraries, and academic theory in action.  
 
 > 📍 Ongoing portfolio by [Aaron Howell](https://www.linkedin.com/in/aaronhowellai/) – MSc Artificial Intelligence @ UWE Bristol, MyWorld Scholar 💡
