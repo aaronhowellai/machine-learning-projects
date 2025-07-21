@@ -49,3 +49,22 @@ A quick overview of the tools, libraries, and frameworks used across this Machin
 - 📊 **R** – Complementary statistical analysis, modelling, and data visualisation.
 
 ---
+
+#### 🛠️ Skills Wishlist (For late 2025/Early 2026)
+- Docker
+- Kubernetes
+- SQL
+  - MySQL
+  - PostgreSQL
+  - NoSQL
+- LangGraph
+- LangChain
+- OpenAI Gymnasium
+- REST APIs
+- RAG
+- JAX
+- CUDA
+- MongoDB
+- Apache Spark
+
+---
