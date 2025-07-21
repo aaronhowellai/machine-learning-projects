@@ -28,6 +28,14 @@ Each notebook is designed to be:
 ## 🛠️ Core Skills Demonstrated
 #### [More Details Here](https://github.com/aaronhowellai/machine-learning-projects/blob/main/techstack/README.md)
 
+- **ML/AI Topics**
+  - Machine Learning Algorithms
+  - Deep Learning Algorithms/Architectures (FNNs, MLPs, CNNs, .etc)
+  - Supervised Learning (Regression, Classification)
+  - Efficient Data Pipelines
+  - Performance Benchmarking & Optimisation with CUDA (CPU vs GPU)
+  - Exploratory Data Analysis (EDA)
+
 - **Languages & Libraries**
   - Python
   - R
@@ -44,6 +52,9 @@ Each notebook is designed to be:
       - YAML
       - JSON
       - JSONPath
+  - APIs
+    - [Application Programming Interfaces Example Architecture, Explained](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20concepts/application%20programming%20interface%20(api).png)
+
 
 - **Cloud Skills**
   - Amazon AWS
@@ -57,14 +68,6 @@ Each notebook is designed to be:
   - Linear Algebra
   - Probability & Statistics
   - Integral Calculus
-
-- **Key Topics**
-  - Machine Learning Algorithms
-  - Deep Learning Algorithms/Architectures (FNNs, MLPs, CNNs, .etc)
-  - Supervised Learning (Regression, Classification)
-  - Efficient Data Pipelines
-  - Performance Benchmarking & Optimisation with CUDA (CPU vs GPU)
-  - Exploratory Data Analysis (EDA)
 
 ---
 
