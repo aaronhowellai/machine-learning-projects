@@ -102,13 +102,13 @@ As I mentioned briefly above, I read the UK's [National AI Strategy](https://www
 - By this time, I had already read Max Tegmark's book and had decided that for my presentation to the judge panel, including a former design director at Rolls-Royce and the London Lord Mayor, I would offer a dedicated section off-script to discuss the future of Artificial Intelligence.
 - For this section, I showed the panellists a screenshot of a YouTube channel that my design mentor and I had created with a [GenAI video](https://www.youtube.com/watch?v=-UBaW1OIgTo) we had created together that to this day has amassed **2.1 million views** (and is monetised), using a fine-tuned Stable Diffusion model and Midjourney along with some animation tools.
   - This video that we made was pre-video-generation days, so it went viral due to being considered **State of the Art**
-- The panellists were so impressed with the foresight to include a discussion about AI that all my post-presentation QA was spent having a discussion about it, probing my opinions about the future of work in the Automotive industry in the dawn of generative workflows.
+- The panellists were so impressed with the foresight to include a discussion about AI that all my post-presentation Q&A was spent having a discussion about it, probing my opinions about the future of work in the Automotive industry in the dawn of generative workflows.
 ##### The Gut Punch
 - When the awards were presented, every contestant except me was awarded £2.5k, with one being awarded £5k instead of me getting a share, as had happened in previous competition years.
   - This is because it was explained to me afterwards that they felt that the other contestants would use the money better for a career in automotive design specifically, whereas they could see that I was heading in a different direction.
   - The London Lord Mayor said, "You would have won an award in the future, but your presentation was 5 years too advanced"
   - Another panellist said, "I don't know what it is you will go on to do, but you're going to do great things"
-  - While I had felt like I had missed lectures to travel to London for a kick in the teeth, I took home those 2 quotes that I remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
+  - While I had felt like I had missed lectures to travel to London for a kick in the teeth, I took home those 2 aforementioned encouragements that I will remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
 
 ### Present Day
 I'm currently on a gap year to gain industry experience from an **MSc in Artificial Intelligence** at the University of the West of England (UWE), resuming in September 2026 (completing in May 2027), and recently completed a 6-month internship as a **Software Development Intern** at Independent Composites Ltd sponsored by Made Smarter UK (An Innovate UK scheme). 
