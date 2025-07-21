@@ -26,6 +26,7 @@ Each notebook is designed to be:
 ---
 
 ## 🛠️ Core Skills Demonstrated
+[(More Details Here)](https://github.com/aaronhowellai/machine-learning-projects/blob/main/techstack/README.md)
 
 - **Languages & Libraries**
   - Python
