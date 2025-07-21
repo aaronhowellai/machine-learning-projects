@@ -1,8 +1,8 @@
 # 🧠 Machine Learning Projects Portfolio
 
-## **Please note:**
+#### **Please note:**
 
-The **Open in colab** button for viewing Python Notebooks in Google Colab, has had some issues in recent months, so if it does not work, please download the raw file and view in an IDE like Jupyter Lab or VSCode to see and interact with the full project.
+*The **Open in colab** button for viewing Python Notebooks in Google Colab, has had some issues in recent months, so if it does not work, please download the raw file and view in an IDE like Jupyter Lab or VSCode to see and interact with the full project.*
 
 A curated collection of hands-on **Machine Learning** and **Deep Learning** mini-projects, experiments, and pipelines — developed using real-world datasets, modern libraries, and academic theory in action.  
 
@@ -26,7 +26,7 @@ Each notebook is designed to be:
 ---
 
 ## 🛠️ Core Skills Demonstrated
-[(More Details Here)](https://github.com/aaronhowellai/machine-learning-projects/blob/main/techstack/README.md)
+#### [More Details Here](https://github.com/aaronhowellai/machine-learning-projects/blob/main/techstack/README.md)
 
 - **Languages & Libraries**
   - Python
