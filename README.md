@@ -11,12 +11,12 @@ A curated collection of hands-on **Machine Learning** and **Deep Learning** mini
 📧 Email Me: 7labtech@gmail.com
 ## 🚀 What's Inside
 
-This repository contains Jupyter notebooks and visual artifacts from end-to-end ML projects. Topics range from regression models to efficient data loading, including:
+This repository contains Jupyter notebooks and visual artefacts from end-to-end ML projects. Topics range from image classification to efficient data loading in PyTorch, including:
 
-- 📊 **1-Week House Price Regression Project (California Housing Dataset)**
-- 🤖 **95% Accuracy Email Spam Classifier**
-- 🔍 **1-Week Handwritten Digits Classification (MNIST Dataset)**
-- 📈 Data visualization: Tensor shapes, pipeline architectures, and more!
+- 📊 [97% Accurate ANN Image Classifier in PyTorch](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/ANN%20Image%20Classifier%20with%20MNIST.ipynb)
+- 💮 [Iris Flower Classification in PyTorch](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Iris%20Classification%20ANN%20with%20PyTorch.ipynb)
+- 🤖 [95% Accuracy Email Spam Classifier](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/95_Accuracy_Email_Spam_Classifier%2C_Sklearn.ipynb)
+
 
 Each notebook is designed to be:
 - Reproducible ✅  
@@ -28,10 +28,26 @@ Each notebook is designed to be:
 ## 🛠️ Core Skills Demonstrated
 
 - **Languages & Libraries**
-  - Python, R
-  - PyTorch, Scikit-Learn
-  - Pandas, NumPy
-  - Matplotlib, Seaborn
+  - Python
+  - R
+  - PyTorch
+  - Scikit-Learn
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+ 
+- **DevOps Practices**
+  - Git, GitHub
+  - Configuration Management
+      - YAML
+      - JSON
+      - JSONPath
+
+- **Cloud Skills**
+  - Amazon AWS
+  - Microsoft Azure
+  - Google Cloud Platform
 
 - **Mathematics for ML**
   - Linear Algebra
@@ -40,7 +56,7 @@ Each notebook is designed to be:
 
 - **Key Topics**
   - Machine Learning Algorithms
-  - Deep Learning Algorithms
+  - Deep Learning Algorithms/Architectures (FNNs, MLPs, CNNs .etc)
   - Supervised Learning (Regression, Classification)
   - Efficient Data Pipelines
   - Performance Benchmarking & Optimization with CUDA (CPU vs GPU)
@@ -48,7 +64,7 @@ Each notebook is designed to be:
 
 ---
 
-## 📸 Visual Summaries
+## 📸 Visual Explanations of Theory in ["machine learning concepts"](https://github.com/aaronhowellai/machine-learning-projects/tree/main/machine%20learning%20concepts)
 
 This repo also includes diagrams and annotated images that break down concepts such as:
 - Data loading & processing
@@ -68,11 +84,24 @@ This portfolio is **Work In Progress (WIP)** — I actively update this repo wit
 
 ## 💼 About Me
 
-I'm currently completing an **MSc in Artificial Intelligence** at the University of the West of England (UWE), and recently served as an **Algorithm Engineer Intern**. My career interests lie in:
+I'm currently on a gap year to gain industry experience from an **MSc in Artificial Intelligence** at the University of the West of England (UWE), resuming in September 2026 (completing in May 2027), and recently completed an internship as a **Software Development Intern** at Independent Composites ltd. 
 
-- 🧠 Applied AI & ML
-- 🏭 Real-time industry integration
-- 📊 Data-driven decision systems
+*( Currently seeking paid internships in AI/ML with flexible durations, 2 weeks notice )*
+
+I have also recently been awarded 2x Scolarships:
+- [O'Reilly DEI Data Science Scholarship (2025-2026 Winner)](https://www.oreilly.com/pub/pr/3468)
+- [MyWorld Scholarship (2024-2025 Winner)](https://www.uwe.ac.uk/courses/funding/scholarships-and-bursaries/myworld-scholarship)
+
+### **My key career interests lie in:**
+
+- 🧠 **Applied AI & ML**
+  - Designing Machine Learning Systems
+  - AI Engineering
+  - Machine Learning Engineering
+  - MLOps
+ 
+- 🏭 **Real-time industry integration**
+- 📊 **Data-driven decision systems**
 
 ---
 
