@@ -53,6 +53,7 @@ Each notebook is designed to be:
       - JSON
       - JSONPath
   - APIs
+    - OpenAI API
     - [Application Programming Interfaces Example Architecture, Explained](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20concepts/application%20programming%20interface%20(api).png)
 
 
