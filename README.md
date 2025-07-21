@@ -84,15 +84,40 @@ This portfolio is **Work In Progress (WIP)** — I actively update this repo wit
 
 ## 💼 About Me
 
-I'm currently on a gap year to gain industry experience from an **MSc in Artificial Intelligence** at the University of the West of England (UWE), resuming in September 2026 (completing in May 2027), and recently completed an internship as a **Software Development Intern** at Independent Composites ltd. 
+After reading the UK [National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy) in 2022, I predicted a rapid shift in the global workforce economy and began my journey into STEM and Artificial Intelligence, culminating in a 1st Class Degree in Automotive and Transport Design from Coventry University.
+
+### Backstory
+
+#### First Encounters with Deep Learning
+As I mentioned briefly above, I read the UK's [National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy) in 2022, which informed me of the government's plan to scale-up and commit massive investment and sponsorship of AI through UKRI and Innovate UK, and decided that I was ready to embark on a journey to STEM, but that's not all. Before that, I:
+  - Read Life 3.0 by Max Tegmark twice between 2018-19, and was instantly hooked
+  - Designed several Autonomous Cars for the year 2030, and learned about LiDAR and Computer Vision for Autonomous Driving to better inform design philosophy
+    - Most cars that my classmates and I were tasked with designing were to use SAE Level 5 Technology (Fully Autonomous Driving)
+
+#### "The Nail in The Coffin"
+- In October 2022, I was invited to compete in the [Sir William Lyons Award at the Royal College of Art](https://www.linkedin.com/in/aaronmileshowell/details/honors/), London, as a Finalist with 3 other contestants, with £2.5k to be won each.
+- By this time, I had already read Max Tegmark's book and had decided that for my presentation to the judge panel, including a former design director at Rolls-Royce and the London Lord Mayor, I would offer a dedicated section off-script to discuss the future of Artificial Intelligence.
+- For this section, I showed the panellists a screenshot of a YouTube channel that my design mentor and I had created with a [GenAI video](https://www.youtube.com/watch?v=-UBaW1OIgTo) we had created together that to this day has amassed **2.1 million views** (and is monetised), using a fine-tuned Stable Diffusion model and Midjourney along with some animation tools.
+  - This video that we made was pre-video-generation days, so it went viral due to being considered **State of the Art**
+- The panellists were so impressed with the foresight to include a discussion about AI that all my post-presentation QA was spent having a discussion about it, probing my opinions about the future of work in the Automotive industry in the dawn of generative workflows.
+##### The Gut Punch
+- When the awards were presented, every contestant except me was awarded £2.5k, with one being awarded £5k instead of me getting a share, as had happened in previous competition years.
+  - This is because it was explained to me afterwards that they felt that the other contestants would use the money better for a career in automotive design specifically, whereas they could see that I was heading in a different direction.
+  - The London Lord Mayor said, "You would have won an award in the future, but you presentation was 5 years too advanced"
+  - Another panellist said, "I don't know what it is you will go on to do, but you're going to do great things"
+  - While I had felt like I had missed lectures to travel to London for a kick in the teeth, I took home those 2 quotes that I remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
+
+### Present Day
+I'm currently on a gap year to gain industry experience from an **MSc in Artificial Intelligence** at the University of the West of England (UWE), resuming in September 2026 (completing in May 2027), and recently completed a 6-month internship as a **Software Development Intern** at Independent Composites Ltd sponsored by Made Smarter UK (An Innovate UK scheme). 
 
 *( Currently seeking paid internships in AI/ML with flexible durations, 2 weeks notice )*
 
-I have also recently been awarded 2x Scolarships:
+I have also recently been awarded 2x Scholarships and a Youth Development Award from the King's Trust:
 - [O'Reilly DEI Data Science Scholarship (2025-2026 Winner)](https://www.oreilly.com/pub/pr/3468)
 - [MyWorld Scholarship (2024-2025 Winner)](https://www.uwe.ac.uk/courses/funding/scholarships-and-bursaries/myworld-scholarship)
+- [Youth Development Award (2024 Winner)](https://fis.wandsworth.gov.uk/kb5/wandsworth/fsd/service.page?id=A7qrHcKzKKw)
 
-### **My key career interests lie in:**
+### **My key career interests:**
 
 - 🧠 **Applied AI & ML**
   - Designing Machine Learning Systems
@@ -102,6 +127,19 @@ I have also recently been awarded 2x Scolarships:
  
 - 🏭 **Real-time industry integration**
 - 📊 **Data-driven decision systems**
+
+### 📜 **Ongoing Online Courses**
+- Deep Learning in PyTorch with Python Bootcamp, Pierian Training, Udemy
+- Software Engineering Practices
+- Research Methodology
+- Optimisation with Python
+- Computer Hardware, OS, Networking
+- Complete SQL Bootcamp
+
+### 📜 [**Recently Completed Online Courses**](https://www.linkedin.com/in/aaronmileshowell/details/certifications/)
+- DevOps, Configuration Management: YAML, JSON, JSONPath
+- Introduction to Cloud Computing in AWS, GCP, Azure
+- Master Git and GitHub
 
 ---
 
