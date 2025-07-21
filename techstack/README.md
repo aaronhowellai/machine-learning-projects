@@ -27,7 +27,7 @@ A quick overview of the tools, libraries, and frameworks used across this Machin
 
 ### ⚙️ Markup & Configuration
 - 🧾 **YAML** – Config files for workflows, pipelines, and model tuning.
-- 🧮 **JSON / JSONPath** – Configuration schemas, API payloads, nested data handling.
+- 🧮 **JSON / JSONPath** – Configuration schemas, [API](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20concepts/application%20programming%20interface%20(api).png) payloads, nested data handling.
 
 ---
 
