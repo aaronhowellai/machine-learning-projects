@@ -6,7 +6,7 @@
 
 A curated collection of hands-on **Machine Learning** and **Deep Learning** mini-projects, experiments, and pipelines — developed using real-world datasets, modern libraries, and academic theory in action.  
 
-> 📍 Ongoing portfolio by [Aaron Howell](https://www.linkedin.com/in/aaronhowellai/) – MSc Artificial Intelligence @ UWE Bristol, MyWorld Scholar 💡
+> 📍 Ongoing portfolio by [Aaron Howell](https://www.linkedin.com/in/aaronhowellai/) – AI Engineer Intern @ Live Digital, MSc in AI @ UWE Bristol, 2x Scholar 💡
 ---
 📧 Email Me: 7labtech@gmail.com
 ## 🚀 What's Inside
@@ -115,11 +115,10 @@ As I mentioned briefly above, I read the UK's [National AI Strategy](https://www
   - While I had partially felt like I had missed lectures to travel to London for a disappointing end, I took home those 2 aforementioned encouragements that I will remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
 
 ### Present Day
-I'm currently on a gap year to gain industry experience from an **MSc in Artificial Intelligence** at the University of the West of England (UWE), resuming in September 2026 (completing in May 2027), and recently completed a 6-month internship as a **Software Development Intern** at Independent Composites Ltd sponsored by Made Smarter UK (An Innovate UK scheme). 
+- I'm currently an AI Engineer Intern @ Live Digital, a SaaS Recruitment Agency, seeking to automate their processes with an AI-powered client acquisition engine, using a GenAI pipeline, as I am on a gap year to gain industry experience. 
+- I resume studying in September 2026 (completing in May 2027)
 
-*( Currently seeking paid internships in AI/ML with flexible durations, 2 weeks notice )*
-
-I have also recently been awarded 2x Scholarships and a Youth Development Award from the King's Trust:
+I have also recently been awarded 2x Scholarships and a Youth Development Award from the King's Trust.
 - [O'Reilly DEI Data Science Scholarship (2025-2026 Winner)](https://www.oreilly.com/pub/pr/3468)
 - [MyWorld Scholarship (2024-2025 Winner)](https://www.uwe.ac.uk/courses/funding/scholarships-and-bursaries/myworld-scholarship)
 - [Youth Development Award (2024 Winner)](https://fis.wandsworth.gov.uk/kb5/wandsworth/fsd/service.page?id=A7qrHcKzKKw)
