@@ -87,7 +87,7 @@ This portfolio is **Work In Progress (WIP)** — I actively update this repo wit
 
 ## 💼 About Me
 
-After reading the UK [National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy) in 2022, I predicted a rapid shift in the global workforce economy and began my journey into STEM and Artificial Intelligence, culminating in a 1st Class Degree in Automotive and Transport Design from Coventry University.
+After reading the UK [National AI Strategy](https://www.gov.uk/government/publications/national-ai-strategy) in 2022, I predicted a rapid shift in the global workforce economy and began my journey into STEM and Artificial Intelligence, culminating in a 1st Class Degree in Automotive and Transport Design from Coventry University with a STEM-flavoured itch to scratch at Postgraduate level.
 
 ### Backstory
 
