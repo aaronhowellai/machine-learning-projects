@@ -28,9 +28,9 @@ Each notebook is designed to be:
 ## 🛠️ Core Skills Demonstrated
 
 - **Languages & Libraries**
-  - Python, R, SQL
-  - PyTorch, TensorFlow, Scikit-Learn
-  - JAX, Pandas, NumPy
+  - Python, R
+  - PyTorch, Scikit-Learn
+  - Pandas, NumPy
   - Matplotlib, Seaborn
 
 - **Mathematics for ML**
