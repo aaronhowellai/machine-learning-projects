@@ -46,8 +46,11 @@ Each notebook is designed to be:
 
 - **Cloud Skills**
   - Amazon AWS
+    - [Scalable Web Application Architecture example using Amazon AWS](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20concepts/scalable%20web%20application%20architecture%20using%20amazon%20aws.png)
   - Microsoft Azure
+    - [High-level Serverless Web Hosting Architecture example using Microsoft Azure](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20concepts/high-level%20serverless%20web%20hosting%20architecture%20using%20microsoft%20azure.png)
   - Google Cloud Platform
+    - [Google Cloud Platform Smart Home Architecture](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20concepts/google%20cloud%20platform%20smart%20home%20architecture.png)
 
 - **Mathematics for ML**
   - Linear Algebra
@@ -56,10 +59,10 @@ Each notebook is designed to be:
 
 - **Key Topics**
   - Machine Learning Algorithms
-  - Deep Learning Algorithms/Architectures (FNNs, MLPs, CNNs .etc)
+  - Deep Learning Algorithms/Architectures (FNNs, MLPs, CNNs, .etc)
   - Supervised Learning (Regression, Classification)
   - Efficient Data Pipelines
-  - Performance Benchmarking & Optimization with CUDA (CPU vs GPU)
+  - Performance Benchmarking & Optimisation with CUDA (CPU vs GPU)
   - Exploratory Data Analysis (EDA)
 
 ---
@@ -103,7 +106,7 @@ As I mentioned briefly above, I read the UK's [National AI Strategy](https://www
 ##### The Gut Punch
 - When the awards were presented, every contestant except me was awarded £2.5k, with one being awarded £5k instead of me getting a share, as had happened in previous competition years.
   - This is because it was explained to me afterwards that they felt that the other contestants would use the money better for a career in automotive design specifically, whereas they could see that I was heading in a different direction.
-  - The London Lord Mayor said, "You would have won an award in the future, but you presentation was 5 years too advanced"
+  - The London Lord Mayor said, "You would have won an award in the future, but your presentation was 5 years too advanced"
   - Another panellist said, "I don't know what it is you will go on to do, but you're going to do great things"
   - While I had felt like I had missed lectures to travel to London for a kick in the teeth, I took home those 2 quotes that I remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
 
@@ -140,16 +143,15 @@ I have also recently been awarded 2x Scholarships and a Youth Development Award 
 - DevOps, Configuration Management: YAML, JSON, JSONPath
 - Introduction to Cloud Computing in AWS, GCP, Azure
 - Master Git and GitHub
+- Master Math (Linear Algebra, Integral Calculus, Probability & Statistics) in Python
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 **Connect With Me**
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aaronhowellai/)
 - 📁 [Kaggle](https://www.kaggle.com/aaronhowell7lab/) 
 - ✨ Featured on [UWE](https://explore.uwe.ac.uk/explore/computer-science-and-creative-technologies/day-in-the-life-on-an-artificial-intelligence-student?study_level=postgraduate&subject_area=computer-science-and-creative-technologies&i_am_a=not-sure&hide_leads=1/)
 - 📧 Email Me: 7labtech@gmail.com
 ---
-
-**Stay tuned – more models, datasets, and visual demos coming soon!** 🚀
 
