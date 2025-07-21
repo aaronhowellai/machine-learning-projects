@@ -131,6 +131,10 @@ I have also recently been awarded 2x Scholarships and a Youth Development Award 
 - 🏭 **Real-time industry integration**
 - 📊 **Data-driven decision systems**
 
+### 📜 **Ongoing Projects**
+- Image Classification CNNs (Computer Vision), with MNIST Handwritten Digits in PyTorch 
+- AI Job Salaries Prediction, ANN Regression in PyTorch
+
 ### 📜 **Ongoing Online Courses**
 - Deep Learning in PyTorch with Python Bootcamp, Pierian Training, Udemy
 - Software Engineering Practices, Udemy
