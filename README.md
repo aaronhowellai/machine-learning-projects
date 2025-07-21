@@ -134,7 +134,7 @@ I have also recently been awarded 2x Scholarships and a Youth Development Award 
 
 ### 📜 **Ongoing Projects**
 - Image Classification CNNs (Computer Vision), with MNIST Handwritten Digits in PyTorch 
-- AI Job Salaries Prediction, ANN Regression in PyTorch
+- 2020-2025 AI Job Salaries Prediction, Kaggle Dataset, ANN Regression in PyTorch
 
 ### 📜 **Ongoing Online Courses**
 - Deep Learning in PyTorch with Python Bootcamp, Pierian Training, Udemy
