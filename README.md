@@ -108,7 +108,7 @@ As I mentioned briefly above, I read the UK's [National AI Strategy](https://www
   - This is because it was explained to me afterwards that they felt that the other contestants would use the money better for a career in automotive design specifically, whereas they could see that I was heading in a different direction.
   - The London Lord Mayor said, "You would have won an award in the future, but your presentation was 5 years too advanced"
   - Another panellist said, "I don't know what it is you will go on to do, but you're going to do great things"
-  - While I had felt like I had missed lectures to travel to London for a kick in the teeth, I took home those 2 aforementioned encouragements that I will remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
+  - While I had partially felt like I had missed lectures to travel to London for a disappointing end, I took home those 2 aforementioned encouragements that I will remember for the rest of my life, along with a burning determination to change my future before it changed around me. 
 
 ### Present Day
 I'm currently on a gap year to gain industry experience from an **MSc in Artificial Intelligence** at the University of the West of England (UWE), resuming in September 2026 (completing in May 2027), and recently completed a 6-month internship as a **Software Development Intern** at Independent Composites Ltd sponsored by Made Smarter UK (An Innovate UK scheme). 
