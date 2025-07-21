@@ -133,11 +133,11 @@ I have also recently been awarded 2x Scholarships and a Youth Development Award 
 
 ### 📜 **Ongoing Online Courses**
 - Deep Learning in PyTorch with Python Bootcamp, Pierian Training, Udemy
-- Software Engineering Practices
-- Research Methodology
-- Optimisation with Python
-- Computer Hardware, OS, Networking
-- Complete SQL Bootcamp
+- Software Engineering Practices, Udemy
+- Research Methodology, Udemy
+- Optimisation with Python, Udemy
+- Computer Hardware, OS, Networking, Udemy
+- Complete SQL Bootcamp, Udemy
 
 ### 📜 [**Recently Completed Online Courses**](https://www.linkedin.com/in/aaronmileshowell/details/certifications/)
 - DevOps, Configuration Management: YAML, JSON, JSONPath
