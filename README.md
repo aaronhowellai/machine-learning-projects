@@ -13,8 +13,8 @@ A curated collection of hands-on **Machine Learning** and **Deep Learning** mini
 
 This repository contains Jupyter notebooks and visual artefacts from end-to-end ML projects. Topics range from image classification to efficient data loading in PyTorch, including:
 
-- 📊 [97% Accurate ANN Image Classifier in PyTorch](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/ANN%20Image%20Classifier%20with%20MNIST.ipynb)
-- 💮 [Iris Flower Classification in PyTorch](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Iris%20Classification%20ANN%20with%20PyTorch.ipynb)
+- 📊 [Simple ReAct LLM, GPT Agent From Scratch using OpenAI API]([https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/ANN%20Image%20Classifier%20with%20MNIST.ipynb](https://github.com/aaronhowellai/machine-learning-projects/blob/main/large%20language%20models/Simple%20ReAct%20LLM%2C%20GPT%20Agent%20From%20Scratch%20using%20OpenAI%20API.ipynb))
+- 💮 [Colour Image Classifier in PyTorch (Computer Vision)]([https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Iris%20Classification%20ANN%20with%20PyTorch.ipynb](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Colour%20Image%20Classifier%20CNN%2C%20Computer%20Vision%2C%20CIFAR-10.ipynb))
 - 🤖 [95% Accuracy Email Spam Classifier](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/95_Accuracy_Email_Spam_Classifier%2C_Sklearn.ipynb)
 
 
