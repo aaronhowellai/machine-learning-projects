@@ -32,7 +32,7 @@ Each notebook is designed to be:
 - **ML/AI Topics**
   - Agentive Systems
   - AI Engineering
-  - Desining Machine Learning Systems
+  - Designing Machine Learning Systems
   - Machine Learning Algorithms
   - Deep Learning Algorithms/Architectures (CNNs, Transformers, RNNs .etc)
   - Generative AI
