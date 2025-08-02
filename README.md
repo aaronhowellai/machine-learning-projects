@@ -32,6 +32,9 @@ Each notebook is designed to be:
 - **ML/AI Topics**
   - Machine Learning Algorithms
   - Deep Learning Algorithms/Architectures (CNNs, Transformers, RNNs .etc)
+  - Generative AI
+  - Natural Language Processing
+  - Computer Vision
   - Supervised Learning (Regression, Classification)
   - Efficient Data Pipelines
   - Performance Benchmarking & Optimisation with CUDA (CPU vs GPU)
