@@ -30,6 +30,9 @@ Each notebook is designed to be:
 #### [More Details Here](https://github.com/aaronhowellai/machine-learning-projects/blob/main/techstack/README.md)
 
 - **ML/AI Topics**
+  - Agentive Systems
+  - AI Engineering
+  - Desining Machine Learning Systems
   - Machine Learning Algorithms
   - Deep Learning Algorithms/Architectures (CNNs, Transformers, RNNs .etc)
   - Generative AI
