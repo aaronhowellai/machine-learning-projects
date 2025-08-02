@@ -13,9 +13,10 @@ A curated collection of hands-on **Machine Learning** and **Deep Learning** mini
 
 This repository contains Jupyter notebooks and visual artefacts from end-to-end ML projects. Topics range from image classification to efficient data loading in PyTorch, including:
 
+- ✨ [Multimodal I/O with Gemini Developer API LLMs, LMMs (ft. Diffusion)](https://github.com/aaronhowellai/machine-learning-projects/blob/aaronhowellai-patch-1/large%20language%20models/Gemini%20Developer%20API%2C%20LLMs%2C%20LMMs%20(ft%20Diffusion).ipynb)
 - 💬 [Simple ReAct LLM, GPT Agent From Scratch using OpenAI API](https://github.com/aaronhowellai/machine-learning-projects/blob/main/large%20language%20models/Simple%20ReAct%20LLM%2C%20GPT%20Agent%20From%20Scratch%20using%20OpenAI%20API.ipynb)
-- 🖼️ [Colour Image Classifier in PyTorch (Computer Vision)](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Colour%20Image%20Classifier%20CNN%2C%20Computer%20Vision%2C%20CIFAR-10.ipynb)
-- 📧 [95% Accuracy Email Spam Classifier](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/95_Accuracy_Email_Spam_Classifier%2C_Sklearn.ipynb)
+- 🖼️ [Colour Image Classifier CNN in PyTorch (Computer Vision)](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Colour%20Image%20Classifier%20CNN%2C%20Computer%20Vision%2C%20CIFAR-10.ipynb)
+
 
 
 Each notebook is designed to be:
@@ -29,8 +30,14 @@ Each notebook is designed to be:
 #### [More Details Here](https://github.com/aaronhowellai/machine-learning-projects/blob/main/techstack/README.md)
 
 - **ML/AI Topics**
+  - Agentive Systems
+  - AI Engineering
+  - Designing Machine Learning Systems
   - Machine Learning Algorithms
-  - Deep Learning Algorithms/Architectures (FNNs, MLPs, CNNs, .etc)
+  - Deep Learning Algorithms/Architectures (CNNs, Transformers, RNNs .etc)
+  - Generative AI
+  - Natural Language Processing
+  - Computer Vision
   - Supervised Learning (Regression, Classification)
   - Efficient Data Pipelines
   - Performance Benchmarking & Optimisation with CUDA (CPU vs GPU)
