@@ -15,7 +15,7 @@ This repository contains Jupyter notebooks and visual artefacts from end-to-end 
 
 - ✨ [Multimodal I/O with Gemini Developer API LLMs, LMMs (ft. Diffusion)](https://github.com/aaronhowellai/machine-learning-projects/blob/aaronhowellai-patch-1/large%20language%20models/Gemini%20Developer%20API%2C%20LLMs%2C%20LMMs%20(ft%20Diffusion).ipynb)
 - 💬 [Simple ReAct LLM, GPT Agent From Scratch using OpenAI API](https://github.com/aaronhowellai/machine-learning-projects/blob/main/large%20language%20models/Simple%20ReAct%20LLM%2C%20GPT%20Agent%20From%20Scratch%20using%20OpenAI%20API.ipynb)
-- 🖼️ [Colour Image Classifier CNN in PyTorch (Computer Vision)](https://github.com/aaronhowellai/machine-learning-projects/blob/main/machine%20learning%20algorithms/Colour%20Image%20Classifier%20CNN%2C%20Computer%20Vision%2C%20CIFAR-10.ipynb)
+- 📋 [Transcribing Text Documents with Claude 4 Opus API](https://github.com/aaronhowellai/machine-learning-projects/blob/main/large%20language%20models/Transcribing%20Text%20Documents%20with%20Claude%204%20Opus%20API.ipynb)
 
 
 
