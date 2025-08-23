@@ -1,0 +1,307 @@
+[
+  {
+    "action": "saveContext",
+    "chatHistory": [
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "What's the latest tech news for this week?",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "That's a great question! I can definitely help you with that. I can fetch the latest tech news from sources like TechCrunch or Hacker News. Which one would you prefer, or would you like to see the headlines from TechCrunch?",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Let's go with Tech Crunch",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "Here are some of the latest tech headlines from TechCrunch:\n\n*   **The Trump administration’s big Intel investment comes from already awarded grants** - While Intel says the government is making an “$8.9 billion investment in Intel common stock,” the administration does not appear to be committing new funds.\n*   **Meta partners with Midjourney on AI image and video models** - Meta's chief AI officer said that the company is partnering with Midjourney to license its AI image and video model technology.\n*   **Coinbase CEO explains why he fired engineers who didn’t try AI immediately** - After getting licenses to cover every engineer, some at the cryptocurrency exchange warned Armstrong that adoption would be slow, predicting it would take months to get even half the engineers using AI.\n*   **Bluesky blocks service in Mississippi over age assurance law** - In a blog post published on Friday, the company explains that, as a small team, it doesn't have the resources to make the substantial technical changes this type of law would require, and it raised concerns about the law's broad scope and privacy implications.\n*   **Apple gets ready for AI in the enterprise with new ChatGPT configuration options** - Apple will let businesses configure ChatGPT enterprise access in the fall.\n*   **US government plans to take a 10% stake in Intel** - Such federal government ownership of a major corporation would mark a dramatic departure from long-standing U.S. policy.\n*   **TikTok denies India comeback after reports of website going live** - TikTok isn’t making a comeback in India.\n*   **Apple is in talks to use Google’s Gemini for Siri revamp, report says** - Apple promised a major revamp to Siri, but the company's AI capabilities have lagged behind competitors.\n*   **The next Starship flight will test much more than hardware** - The 10th Starship flight test will be a referendum on the company's build-fly-fix approach.\n*   **Y Combinator says Apple’s App Store has hindered startup growth** - Y Combinator is asking the court to deny Apple’s appeal.\n*   **Nvidia reportedly halts production on its H20 AI chips** - Beijing is reportedly urging Chinese companies to turn to domestic chips just weeks after Nvidia got the green light to sell in China again.\n*   **Aspiration co-founder to plead guilty to $248M fraud scheme** - Joseph Sanberg is accused of falsely inflating revenue and fabricating a letter from Aspiration's audit committee to obtain loans, which the startup ultimately defaulted on.\n*   **YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’** - The thousands of trucks zipping along U.S. highways are often only about half full -- something Oway wants to change with its \"ride-share for freight\" software.\n*   **Google makes it easier to edit Drive videos with a new Vids shortcut button** - Now Workspace users can initiate a video edit using the Vids app directly from the Google Drive interface.\n*   **X pulls the ability to like and follow from its developer API’s free tier** - X is making it harder for spammers with these API changes.\n*   **Developer gets prison time for sabotaging former employer’s network with a ‘kill switch’** - The ex-developer was convicted of planting malicious code designed to crash its servers in the event that he was fired.\n*   **Waymo approved to start autonomous vehicle testing in New York City** - It's the first permit of its kind, and a crucial step along the path toward launching a true robotaxi service in the Big Apple.\n*   **OpenAI announces New Delhi office as it expands footprint in India** - OpenAI has started hiring in India as it looks to expand its presence in the fast-growing South Asian tech market.\n*   **OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid** - OpenAI says that Elon Musk met with Meta CEO Mark Zuckerberg to discuss a $97 billion takeover bid of the ChatGPT-maker.\n*   **Anduril, Blue Origin to study how to transport cargo from orbit to Earth for the Pentagon** - Blue Origin and Anduril notched small contracts that could revolutionize how the Pentagon transports cargo.\n\nI hope this gives you a good overview of what's happening in the tech world! Let me know if you'd like to dive deeper into any of these stories or check out news from another source.",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Let's go with Tech Crunch",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "It looks like I just shared the latest headlines from TechCrunch! Would you like me to fetch the news from a different source, like Hacker News, or perhaps you'd like me to elaborate on any of the TechCrunch articles I just listed?",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Can you do that in 5 lines?",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "Absolutely! Here's a quick 5-line summary of the latest tech news from TechCrunch:\n\n*   The Trump administration is making a significant investment in Intel using existing grants.\n*   Meta is partnering with Midjourney to license AI image and video models.\n*   Coinbase's CEO fired engineers for not adopting AI quickly enough.\n*   Bluesky has blocked service in Mississippi due to a new age assurance law.\n*   Apple is reportedly in talks with Google to use Gemini for a Siri revamp and is preparing for enterprise AI.",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "What's the news with OpenAI this week?",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "Here's what's new with OpenAI this week, according to TechCrunch:\n\n*   **OpenAI announces New Delhi office as it expands footprint in India:** OpenAI is expanding its presence in India and has started hiring for its new New Delhi office.\n*   **OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid:** OpenAI's lawyers are looking into a reported meeting between Elon Musk and Meta CEO Mark Zuckerberg concerning a potential $97 billion takeover bid for OpenAI.",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "What's up with AI hiring in the UK lately? Bullish or bearish market for job seekers?",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "I don't have direct access to real-time AI hiring market data specific to the UK from my current tools. However, based on broader tech trends and the expanding presence of AI companies (like OpenAI opening new offices in India, Meta partnering on AI models, and increased enterprise AI attention from Apple), the AI job market seems quite active and bullish globally, which could be indicative for the UK too.\n\nIf you'd like, I can help gather recent news or insights from major tech news sources about AI hiring trends or you can share if you want me to zero in on any particular region or aspect! Would you like me to fetch the latest tech and AI career news from a source like TechCrunch or Hacker News?",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Hacker News",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "Looking at the latest Hacker News items related to AI hiring or AI market sentiment for job seekers in the UK, there isn't specific direct news about the UK AI job market this week. However, there is a notable listing for a startup:\n\n- Bild AI (a YC W25 startup) is actively hiring an Applied AI Engineer, showing demand for AI talent.\n\nOverall, while no explicit bullish or bearish hiring market reports for the UK AI sector appeared in this week's headlines, the fact that startups in AI are hiring suggests positive activity. For a more targeted analysis, it may be useful to track specialized job boards or market reports.\n\nIf you'd like, I can help find news relating to AI career trends globally or in other regions. Would you like me to do that?",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Provide me with a link to Andrew Ngs Deep Learning.AI newsletter and put an event at 9am next wednesday in my calendar to read it.",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "I added an event to your Google Calendar for next Wednesday at 9 am to remind you to read Andrew Ng's DeepLearning.AI newsletter.\n\nAs for the newsletter link, the official subscription and newsletter information can be found at Andrew Ng's DeepLearning.AI website here: https://www.deeplearning.ai/newsletter/\n\nWould you like me to help with anything else related to AI newsletters or calendar events?",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Can you also send me an email confirming what you just set up for me?",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "I have just sent you an email confirming that I scheduled the calendar event for next Wednesday at 9 am to remind you to read Andrew Ng's DeepLearning.AI newsletter, including the newsletter link. Let me know if there's anything else you'd like to do!",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "HumanMessage"
+        ],
+        "kwargs": {
+          "content": "Can you create a summary in order of everything I asked you to execute so far as I would like a project summary, and please send this to my email",
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      },
+      {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+          "langchain_core",
+          "messages",
+          "AIMessage"
+        ],
+        "kwargs": {
+          "content": "I've sent you an email summarizing everything we've done together so far in this session—from the latest tech news and OpenAI updates to the calendar event and newsletter link setup.\n\nIf you'd like to continue with more requests or need help with anything else, just let me know!",
+          "tool_calls": [],
+          "invalid_tool_calls": [],
+          "additional_kwargs": {},
+          "response_metadata": {}
+        }
+      }
+    ]
+  }
+]
