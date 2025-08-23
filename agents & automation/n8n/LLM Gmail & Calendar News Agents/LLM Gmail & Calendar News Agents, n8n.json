@@ -11,13 +11,13 @@
       "cid": "Ikx1Y2FzIFBleXJpbiI",
       "name": "Get News",
       "type": "n8n-nodes-base.rssFeedReadTool",
-      "creator": "Lucas Peyrin",
+      "creator": "Aaron Howell",
       "position": [
         1360,
         656
       ],
       "typeVersion": 1.2,
-      "notes": "© 2025 Lucas Peyrin"
+      "notes": "Aaron Howell"
     },
     {
       "parameters": {
@@ -66,7 +66,7 @@
       "cid": "Ikx1Y2FzIFBleXJpbiI",
       "name": "Get Weather",
       "type": "n8n-nodes-base.httpRequestTool",
-      "creator": "Lucas Peyrin",
+      "creator": "Aaron Howell",
       "position": [
         1488,
         656
@@ -82,13 +82,13 @@
       "cid": "Ikx1Y2FzIFBleXJpbiI",
       "name": "Conversation Memory",
       "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
-      "creator": "Lucas Peyrin",
+      "creator": "Aaron Howell",
       "position": [
         1232,
         656
       ],
       "typeVersion": 1.3,
-      "notes": "© 2025 Lucas Peyrin"
+      "notes": "Aaron Howell"
     },
     {
       "parameters": {
@@ -100,7 +100,7 @@
       "cid": "Ikx1Y2FzIFBleXJpbiI",
       "name": "Connect Gemini",
       "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
-      "creator": "Lucas Peyrin",
+      "creator": "Aaron Howell",
       "position": [
         960,
         656
@@ -112,7 +112,7 @@
           "name": "Google Gemini(PaLM) Api account"
         }
       },
-      "notes": "© 2025 Lucas Peyrin"
+      "notes": "Aaron Howell"
     },
     {
       "parameters": {
@@ -124,13 +124,13 @@
       "cid": "Ikx1Y2FzIFBleXJpbiI",
       "name": "LLM Agent Trigger",
       "type": "@n8n/n8n-nodes-langchain.agent",
-      "creator": "Lucas Peyrin",
+      "creator": "Aaron Howell",
       "position": [
         1352,
         432
       ],
       "typeVersion": 2.2,
-      "notes": "© 2025 Lucas Peyrin"
+      "notes": "Aaron Howell"
     },
     {
       "parameters": {
@@ -148,14 +148,14 @@
       "cid": "Ikx1Y2FzIFBleXJpbiI",
       "name": "Chat Window",
       "type": "@n8n/n8n-nodes-langchain.chatTrigger",
-      "creator": "Lucas Peyrin",
+      "creator": "Aaron Howell",
       "position": [
         880,
         432
       ],
       "webhookId": "e5616171-e3b5-4c39-81d4-67409f9fa60a",
       "typeVersion": 1.1,
-      "notes": "© 2025 Lucas Peyrin"
+      "notes": "Aaron Howell"
     },
     {
       "parameters": {
@@ -185,9 +185,9 @@
       "parameters": {
         "calendar": {
           "__rl": true,
-          "value": "7labtech@gmail.com",
+          "value": "email@gmail.com",
           "mode": "list",
-          "cachedResultName": "7labtech@gmail.com"
+          "cachedResultName": "email@gmail.com"
         },
         "useDefaultReminders": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Use_Default_Reminders', ``, 'boolean') }}",
         "additionalFields": {}
@@ -209,7 +209,7 @@
     },
     {
       "parameters": {
-        "sendTo": "7labtech@gmail.com",
+        "sendTo": "emailh@gmail.com",
         "subject": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Subject', ``, 'string') }}",
         "message": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Message', ``, 'string') }}",
         "options": {}
