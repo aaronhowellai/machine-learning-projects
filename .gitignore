@@ -1,3 +1,4 @@
 admin/
 .DS_Store
 machine learning algorithms/working-with-image-data/CATS_DOGS
+machine learning algorithms/working-with-image-data/.venv
